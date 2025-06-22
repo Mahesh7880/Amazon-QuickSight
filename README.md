@@ -11,20 +11,15 @@ Using Amazon QuickSight, I dove deep into Netflix’s content data to uncover an
 ✅ Design and build visualisations, including **donut charts, bar graphs, and tables**.  
 ✅ Address complex data questions with QuickSight’s tools, creating insights from raw data.
 
-🌟The grand finale was building a cohesive dashboard to unite all visualisations—a rewarding process that brought every element together!
-
+🌟The grand finale was building a cohesive dashboard to unite all visualisations a rewarding process that brought every element together!
 ---
-
-### Links
+### Links: 
+### Documentation
+[Create data visualizations with Amazon QuickSight.pdf](https://github.com/user-attachments/files/20853041/Create.data.visualizations.with.Amazon.QuickSight.pdf)
 
 #### **Connect with Me**  
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mahesh-patil0555/)  
 [![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/Mahesh7880) 
-
-### Documentation
-[Create data visualizations with Amazon QuickSight.pdf](https://github.com/user-attachments/files/20853041/Create.data.visualizations.with.Amazon.QuickSight.pdf)
-
 ---
-
 ###  
 #AWS #DataAnalytics #AmazonQuickSight #DashboardDesign #DataVisualisation
