@@ -10,8 +10,9 @@ Using Amazon QuickSight, I dove deep into Netflix’s content data to uncover an
 ✅ Connect these datasets seamlessly to **Amazon QuickSight** for interactive analysis.  
 ✅ Design and build visualisations, including **donut charts, bar graphs, and tables**.  
 ✅ Address complex data questions with QuickSight’s tools, creating insights from raw data.
+ 
+ The grand finale was building a cohesive dashboard to unite all visualisations a rewarding process that brought every element together!
 
-🌟The grand finale was building a cohesive dashboard to unite all visualisations a rewarding process that brought every element together!
 ---
 ### Links: 
 ### Documentation
